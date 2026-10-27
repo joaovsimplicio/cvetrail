@@ -1,0 +1,22 @@
+# Segredos
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+
+# Node
+node_modules/
+dist/
+
+# Editores e ferramentas locais
+.vscode/
+.idea/
+.claude/settings.local.json
+
+#arquivos do Claude
+CLAUDE.md

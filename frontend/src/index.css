@@ -1,0 +1,19 @@
+:root {
+  font-family: system-ui, sans-serif;
+  color: #1a1a2e;
+  background: #f7f8fa;
+}
+
+main {
+  max-width: 720px;
+  margin: 4rem auto;
+  padding: 0 1.5rem;
+}
+
+.status-ok {
+  color: #1a7f37;
+}
+
+.status-unavailable {
+  color: #cf222e;
+}
